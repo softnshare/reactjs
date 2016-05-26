@@ -3,6 +3,7 @@
 ## 線上課程
 
 - [React Fundamentals｜egghead.io](https://egghead.io/series/react-fundamentals)
+- [24小時, React 快速入門-講中文喔!](http://4cats.teachable.com/courses/24hrs-react-101)
 
 ## 文章整理及投影片
 
