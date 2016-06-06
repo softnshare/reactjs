@@ -32,3 +32,7 @@ CheatSheet 整理
 
 - [React Native](./react-native.md)
 - [React: State Management](./react-state-management.md)：Flux, Redux, Relay/GraphQL
+
+
+## 使用github issue寫微部落格
+如果您有撰寫ReactJS開發心得相關文章, 想要與slack channel中的網友分享, 可以透過[github issue](https://github.com/softnshare/reactjs/issues)來發佈你的心得分享, 發佈後會同步到slack channel , 要加入分享行列請來信與我聯絡 my@esast.com 請註明ReactJS
